@@ -1,11 +1,6 @@
 # Secrets
 .env
 
-# Model checkpoints (too large for git)
-checkpoints/
-*.pt
-*.pth
-
 # Datasets
 data/
 *.zip
