@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Model checkpoints (too large for git)
+checkpoints/
+*.pt
+*.pth
+
+# Datasets
+data/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
